@@ -1,0 +1,71 @@
+.body
+{
+    margin: 0 auto;
+    font-size: 28px;
+ background-image: url(https://cdn.slidesharecdn.com/ss_thumbnails/indianculture-170328140554-thumbnail-4.jpg?cb=1490710205.jpg);
+ background-attachment:fixed;
+background-size: cover;    
+background-repeat: no-repeat;
+height: 100%;    
+    }
+.img
+{
+   margin-left: 400px;
+    margin-top: 100px;    
+}
+.tab{
+    font-size:30px;
+    font-weight: bold;
+    color: darkmagenta;
+}.nav {
+  overflow: hidden;
+  background-color: #333;
+    ;
+    
+}
+
+.nav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.nav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.nav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.div2{
+    position:absolute;
+    right:0px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #FFBC6B;
+    
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+
+li a:hover {
+    background-color: #555;
+    color: white;
+}
