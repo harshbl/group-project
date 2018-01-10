@@ -1,0 +1,57 @@
+.body{
+    margin: 0 auto;
+}
+.body{
+    background-image: url(https://img0.etsystatic.com/066/0/10949726/il_fullxfull.753627194_i7ve.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}.nav {
+  overflow: hidden;
+  background-color: #333;
+    position: fixed;
+    width: 100%;
+}
+
+.nav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.nav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.nav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+
+.h1{
+    text-align: center;
+}
+.p1{
+    font-size: 26;
+}
+#imagelist{
+    font-size:0;
+    width:700px;
+    margin-top: 0 auto;
+   
+}
+#imagelist{
+    margin-left: 400px;
+    border: 4px solid black;
+    display:inline-block;
+    border-radius: 10px;
+}
+.video{
+    z-index: -1;
+}
